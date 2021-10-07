@@ -36,6 +36,6 @@
   <br>
   <img width="1277" alt="Screen Shot 2021-10-07 at 4 34 49 PM" src="https://user-images.githubusercontent.com/89226874/136465535-128e4824-8f15-4578-8488-74f7427ca5ac.png">
     
- <h2>Url<h2> <src href=
+ <h2>Url<h2> <a href="https://sovahh.github.io/Work-day-scheduler-/">project link</a>
 
 
